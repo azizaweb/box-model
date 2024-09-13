@@ -1,0 +1,37 @@
+body{
+background-color: rgb(42, 93, 90);
+}
+h1{
+background-color:rgb(49, 19, 19);
+width: 300px;
+margin: auto;
+text-align: center;
+padding: 15px;
+border-radius: 15px;
+color: white;
+font-weight: bold;
+}
+.box{
+   background-color: black;
+   border: 3px solid red;
+   height: 400px;
+   width: 600px;
+   margin: auto;
+   margin-top: 20px;  
+}
+.one{
+background-color: rgb(31, 232, 183);
+color: black;
+font-size: medium;
+margin-left: 20px;
+margin-top: 20px;
+margin-right: 20px;
+}
+.two{
+background-color:rgb(31, 232, 183) ;
+color: black;
+font-size: medium;
+margin-left: 20px;
+margin-bottom: 20px;
+margin-right: 20px;
+}
